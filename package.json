@@ -5,7 +5,7 @@
     "main": "dist/main/index.js",
     "scripts": {
         "dev": "esno ./.electron-vite/watch",
-        "build": "esno ./.electron-vite/build.ts && electron-builder",
+        "build": "esno ./.electron-vite/build && electron-builder",
         "vanilla": "esno ./scripts/vanilla"
     },
     "devDependencies": {
