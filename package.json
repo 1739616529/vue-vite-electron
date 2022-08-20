@@ -9,15 +9,12 @@
     },
     "devDependencies": {
         "@vitejs/plugin-vue": "^3.0.0",
-        "eslint-plugin-vue": "^9.3.0",
-        "electron": "^19.0.10",
+        "electron": "^20.0.3",
         "electron-builder": "^23.1.0",
         "eslint": "^8.20.0",
         "esno": "^0.16.3",
         "fs-extra": "^10.1.0",
         "shelljs": "^0.8.5",
-        "vite": "^3.0.3",
-        "vue": "^3.2.37"
-    },
-    "dependencies": {}
+        "vite": "^3.0.3"
+    }
 }
