@@ -9,21 +9,21 @@
         "vanilla": "esno ./scripts/vanilla"
     },
     "devDependencies": {
-        "@types/fs-extra": "^9.0.13",
-        "@types/shelljs": "^0.8.11",
-        "@typescript-eslint/eslint-plugin": "^5.31.0",
-        "@typescript-eslint/parser": "^5.31.0",
-        "@vitejs/plugin-vue": "^3.0.0",
-        "electron": "^20.0.3",
-        "electron-builder": "^23.1.0",
-        "eslint": "^8.20.0",
-        "eslint-plugin-vue": "^9.3.0",
-        "esno": "^0.16.3",
-        "fs-extra": "^10.1.0",
+        "@types/fs-extra": "^11.0.1",
+        "@types/shelljs": "^0.8.12",
+        "@typescript-eslint/eslint-plugin": "^6.2.0",
+        "@typescript-eslint/parser": "^6.2.0",
+        "@vitejs/plugin-vue": "^4.2.3",
+        "electron": "^25.3.2",
+        "electron-builder": "^24.6.3",
+        "eslint": "^8.46.0",
+        "eslint-plugin-vue": "^9.16.1",
+        "esno": "^0.17.0",
+        "fs-extra": "^11.1.1",
         "shelljs": "^0.8.5",
-        "typescript": "^4.7.4",
-        "vite": "^3.0.3",
-        "vue": "^3.2.37",
-        "vue-tsc": "^0.38.4"
+        "typescript": "^5.1.6",
+        "vite": "^4.4.7",
+        "vue": "^3.3.4",
+        "vue-tsc": "^1.8.8"
     }
 }
