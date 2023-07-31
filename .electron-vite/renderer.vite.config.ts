@@ -2,6 +2,10 @@ import { join } from "path";
 import { defineConfig } from "vite";
 import vue from "@vitejs/plugin-vue";
 import config from "../config";
+var __defProp = Object.defineProperty;
+var __name = (target: any, value: any) => __defProp(target, 'name', { value, configurable: true });
+// @ts-ignore
+globalThis.__name = __name;
 // https://vitejs.dev/config/
 export default defineConfig({
     plugins: [vue()],
